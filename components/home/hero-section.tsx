@@ -23,8 +23,8 @@ export function HeroSection() {
 
           {/* Headline */}
           <h1 className="text-balance text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
-            Defend. Learn.{" "}
-            <span className="text-primary">Dominate.</span>
+            Hacktor
+            <span className="text-primary">X</span>
           </h1>
 
           <p className="mt-6 text-pretty text-lg text-muted-foreground leading-relaxed">
